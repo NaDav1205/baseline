@@ -1,4 +1,3 @@
-
 ---
 course: 01-operating-systems
 group: pz-25-1-9
